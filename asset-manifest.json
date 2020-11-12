@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kachiic/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/kachiic/static/js/main.9f72ab1b.chunk.js",
+    "main.js.map": "/kachiic/static/js/main.9f72ab1b.chunk.js.map",
+    "runtime-main.js": "/kachiic/static/js/runtime-main.42a02696.js",
+    "runtime-main.js.map": "/kachiic/static/js/runtime-main.42a02696.js.map",
+    "static/js/2.eeefeafc.chunk.js": "/kachiic/static/js/2.eeefeafc.chunk.js",
+    "static/js/2.eeefeafc.chunk.js.map": "/kachiic/static/js/2.eeefeafc.chunk.js.map",
+    "static/js/3.5137d708.chunk.js": "/kachiic/static/js/3.5137d708.chunk.js",
+    "static/js/3.5137d708.chunk.js.map": "/kachiic/static/js/3.5137d708.chunk.js.map",
+    "index.html": "/kachiic/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/kachiic/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.eeefeafc.chunk.js.LICENSE.txt": "/kachiic/static/js/2.eeefeafc.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/kachiic/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42a02696.js",
+    "static/js/2.eeefeafc.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.9f72ab1b.chunk.js"
+  ]
+}
